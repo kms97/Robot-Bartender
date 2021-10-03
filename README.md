@@ -14,7 +14,6 @@ Please note that the code posted here is not our final build, as we have decided
 
 The code available however, is fully working with Android phones, and has a small drink database populated for testing, and can be used by those looking to build their own version.
 
-
 ## Parts List:
 - 12V Power Supply
 - 5V Dropdown Voltage Regulator
